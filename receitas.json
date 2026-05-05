@@ -1,4 +1,5 @@
 [
+  {
 "id": "1",
 "nome": "bolo de chocolate",
 "img": "bolo_de_chocolate.jpg",
@@ -42,8 +43,8 @@
 "6º Desenforme o bolo e cubra com a cobertura. Utilize os próprios farelos do bolo e frutas vermelhas para a decoração."
 ]
 },
-"videoUrl": "https://raw.githubusercontent.com/jerog1971/projeto-mobile/main/videos/chocolate.mp4"
-},
+"videoUrl": "https://raw.githubusercontent.com/jerog1971/projeto-mobile/main/videos/chocolate.mp4",
+  },
 {
 "id": "6",
 "nome": "bolo red velvet",
