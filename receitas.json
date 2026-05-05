@@ -1,6 +1,6 @@
 [
 "id": "1",
-"nome": "bolo de chocolate,
+"nome": "bolo de chocolate",
 "img": "bolo_de_chocolate.jpg",
 "ingredientes":{
 "Massa":[
@@ -69,7 +69,7 @@
 ]
 },
 "utensilios": ["Batedeira","Tigela grande","Xícara","Colher de sopa","Forma","Panela","Ralador","Forno", "Geladeira"],
-passos:{
+"passos":{
 "Massa":[
 "1° Em um recipiente, misture o Leite NINHO com o suco de limão. Reserve até talhar.",
 "2° Em uma batedeira, bata a manteiga com o açúcar até obter uma mistura esbranquiçada.",
