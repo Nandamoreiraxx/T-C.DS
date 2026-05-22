@@ -50,7 +50,7 @@ passos:{
 "4° Despeje sobre o bolo morno."
 ]
 },
-videoUrl: 'https://raw.githubusercontent.com/Nandamoreiraxx/T-C.DS/main/videos/cenora.mp4?raw=true'
+videoUrl: 'https://raw.githubusercontent.com/Nandamoreiraxx/T-C.DS/main/videos/cenoura.mp4?raw=true'
 },
 
 {
